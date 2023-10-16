@@ -1,0 +1,15 @@
+E:\GBrains\Linux\MyNetApp\bin\Debug\net7.0\MyNetApp.exe
+E:\GBrains\Linux\MyNetApp\bin\Debug\net7.0\MyNetApp.deps.json
+E:\GBrains\Linux\MyNetApp\bin\Debug\net7.0\MyNetApp.runtimeconfig.json
+E:\GBrains\Linux\MyNetApp\bin\Debug\net7.0\MyNetApp.dll
+E:\GBrains\Linux\MyNetApp\bin\Debug\net7.0\MyNetApp.pdb
+E:\GBrains\Linux\MyNetApp\obj\Debug\net7.0\MyNetApp.csproj.AssemblyReference.cache
+E:\GBrains\Linux\MyNetApp\obj\Debug\net7.0\MyNetApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GBrains\Linux\MyNetApp\obj\Debug\net7.0\MyNetApp.AssemblyInfoInputs.cache
+E:\GBrains\Linux\MyNetApp\obj\Debug\net7.0\MyNetApp.AssemblyInfo.cs
+E:\GBrains\Linux\MyNetApp\obj\Debug\net7.0\MyNetApp.csproj.CoreCompileInputs.cache
+E:\GBrains\Linux\MyNetApp\obj\Debug\net7.0\MyNetApp.dll
+E:\GBrains\Linux\MyNetApp\obj\Debug\net7.0\refint\MyNetApp.dll
+E:\GBrains\Linux\MyNetApp\obj\Debug\net7.0\MyNetApp.pdb
+E:\GBrains\Linux\MyNetApp\obj\Debug\net7.0\MyNetApp.genruntimeconfig.cache
+E:\GBrains\Linux\MyNetApp\obj\Debug\net7.0\ref\MyNetApp.dll
